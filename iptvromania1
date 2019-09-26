@@ -1,7 +1,67 @@
-#EXTM3U
-#EXTINF:-1,Digi Sport 1
-http://85.25.43.23:8080/hls/volex_02.m3u8
-#EXTINF:-1,Digi Sport 2
-http://85.25.43.23:8080/hls/volex_03.m3u8
-#EXTINF:-1,Eurosport 1
-http://85.25.43.23:8080/hls/volex_04.m3u8
+#EXTM3U8
+#EXTINF:-1,RO: U TV
+http://iptvgold.org:25461/zsat/A5ih0e0T86/677
+#EXTINF:-1,RO: TVR 2
+http://iptvgold.org:25461/zsat/A5ih0e0T86/644
+#EXTINF:-1,RO: TVR 1
+http://iptvgold.org:25461/zsat/A5ih0e0T86/643
+#EXTINF:-1,RO: Pro TV
+http://iptvgold.org:25461/zsat/A5ih0e0T86/647
+#EXTINF:-1,RO: Prima TV
+http://iptvgold.org:25461/zsat/A5ih0e0T86/649
+#EXTINF:-1,RO: National TV
+http://iptvgold.org:25461/zsat/A5ih0e0T86/648
+#EXTINF:-1,RO: Kanal D
+http://iptvgold.org:25461/zsat/A5ih0e0T86/650
+#EXTINF:-1,RO: HBO 3
+http://iptvgold.org:25461/zsat/A5ih0e0T86/653
+#EXTINF:-1,RO: HBO Romania
+http://iptvgold.org:25461/zsat/A5ih0e0T86/652
+#EXTINF:-1,RO: Antena Stars
+http://iptvgold.org:25461/zsat/A5ih0e0T86/646
+#EXTINF:-1,RO: Acasa TV
+http://iptvgold.org:25461/zsat/A5ih0e0T86/3379
+#EXTINF:-1,RO: B1
+http://iptvgold.org:25461/zsat/A5ih0e0T86/3376
+#EXTINF:-1,RO: Happy Channel
+http://iptvgold.org:25461/zsat/A5ih0e0T86/3377
+#EXTINF:-1,RO: Look TV
+http://iptvgold.org:25461/zsat/A5ih0e0T86/3374
+#EXTINF:-1,RO: Realitatea
+http://iptvgold.org:25461/zsat/A5ih0e0T86/3378
+#EXTINF:-1,RO: Taraf TV
+http://iptvgold.org:25461/zsat/A5ih0e0T86/3381
+#EXTINF:-1,RO: Kiss TV
+http://iptvgold.org:25461/zsat/A5ih0e0T86/3383
+#EXTINF:-1,RO: Megamax
+http://iptvgold.org:25461/zsat/A5ih0e0T86/3382
+#EXTINF:-1,RO: 1 Music Channel
+http://iptvgold.org:25461/zsat/A5ih0e0T86/46977
+#EXTINF:-1,RO: Agro TV
+http://iptvgold.org:25461/zsat/A5ih0e0T86/47030
+#EXTINF:-1,RO: Antena 1
+http://iptvgold.org:25461/zsat/A5ih0e0T86/47006
+#EXTINF:-1,RO: Antena 3
+http://iptvgold.org:25461/zsat/A5ih0e0T86/47005
+#EXTINF:-1,RO: AXN Romania
+http://iptvgold.org:25461/zsat/A5ih0e0T86/47019
+#EXTINF:-1,RO: AXN White
+http://iptvgold.org:25461/zsat/A5ih0e0T86/47018
+#EXTINF:-1,RO: Boomerang
+http://iptvgold.org:25461/zsat/A5ih0e0T86/46998
+#EXTINF:-1,RO: Cinemax 2
+http://iptvgold.org:25461/zsat/A5ih0e0T86/47010
+#EXTINF:-1,RO: Digi 24
+http://iptvgold.org:25461/zsat/A5ih0e0T86/47012
+#EXTINF:-1,RO: Digi Animal World
+http://iptvgold.org:25461/zsat/A5ih0e0T86/47013
+#EXTINF:-1,RO: Digi Life
+http://iptvgold.org:25461/zsat/A5ih0e0T86/47015
+#EXTINF:-1,RO: Digi Sport 1
+http://iptvgold.org:25461/zsat/A5ih0e0T86/46984
+#EXTINF:-1,RO: Digi Sport 2
+http://iptvgold.org:25461/zsat/A5ih0e0T86/46983
+#EXTINF:-1,RO: Digi Sport 3
+http://iptvgold.org:25461/zsat/A5ih0e0T86/46982
+#EXTINF:-1,RO: Digi Sport 4
+http://iptvgold.org:25461/zsat/A5ih0e0T86/46981
